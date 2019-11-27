@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+What do you call a cow's facial hair?  A _Mooo_-stache!
 Use the left arrow to go back!
